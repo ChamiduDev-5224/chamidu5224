@@ -46,7 +46,7 @@
 [twitter]: https://twitter.com/CRavihara
 [instagram]:https://www.instagram.com/chamidu_ravi98/
 [linkedin]: https://www.linkedin.com/in/chamindu-ravihara-339468202/
-[webdevplaylist]:  https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[webdevplaylist]:  https://code.visualstudio.com/docs#:~:text=Visual%20Studio%20Code%20is%20a,for%20JavaScript%2C%20TypeScript%20and%20Node.
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0

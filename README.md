@@ -2,7 +2,9 @@
 
 
 ## I'm a person who will explore everything!!
-
+<p>
+<img src ="images/Pastel Pink Brush Strokes Beauty Makeup Facebook Cover.png" width=600 height= 350>
+</p>
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators

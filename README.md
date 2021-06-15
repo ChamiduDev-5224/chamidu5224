@@ -3,7 +3,7 @@
 
 ## I'm a person who will explore everything!!
 
-<img width="150" align='right' src="https://www.canva.com/design/DAEhcs_Fgqw/xtam880JgemdCN1LqSOZQA/edit?layoutQuery=Facebook+Cover"></a>
+<img width="150" align='right' src="https://drive.google.com/file/d/1BAAkNyVWzJSl8F-HooENCk56oIuAGVGX/view?usp=sharing"></a>
 </p>
 
 

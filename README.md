@@ -3,7 +3,7 @@
 
 ## I'm a person who will explore everything!!
 <p>
-<img width="150" align='right' src="https://drive.google.com/file/d/1BAAkNyVWzJSl8F-HooENCk56oIuAGVGX/view?usp=sharing"></a>
+<a href="url"><img src="https://drive.google.com/file/d/1BAAkNyVWzJSl8F-HooENCk56oIuAGVGX/view?usp=sharing" align="left" height="48" width="48" ></a>
 </p>
 
 

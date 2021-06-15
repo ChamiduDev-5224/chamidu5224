@@ -3,6 +3,10 @@
 
 ## I'm a person who will explore everything!!
 
+<img width="150" align='right' src="https://www.canva.com/design/DAEhcs_Fgqw/xtam880JgemdCN1LqSOZQA/edit?layoutQuery=Facebook+Cover"></a>
+</p>
+
+
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators

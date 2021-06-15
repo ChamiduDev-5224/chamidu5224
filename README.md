@@ -3,7 +3,7 @@
 
 ## I'm a person who will explore everything!!
 <p>
-<img src ="images/Pastel Pink Brush Strokes Beauty Makeup Facebook Cover.png" width=900 height= 320>
+<img src ="images/Cover pic.png">
 </p>
 
 - 🌱 I’m currently learning everything 🤣

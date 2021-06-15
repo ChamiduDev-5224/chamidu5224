@@ -1,7 +1,7 @@
 ## Hi Guys :wink:, I'm Chamidu - :sri_lanka: 👋
 
 
-## I'm a person who will explore everything!!
+### I'm a person who will explore everything!!
 <p>
 <img src ="images/Cover pic.png">
 </p>

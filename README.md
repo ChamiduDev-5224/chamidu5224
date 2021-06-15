@@ -1,10 +1,7 @@
-### Hi there, I'm Chamidu - :sri_lanka: 👋
+### Hi Guys :wink:, I'm Chamidu - :sri_lanka: 👋
 
 
 ## I'm a person who will explore everything!!
-<p>
-<a href="url"><img src="https://drive.google.com/file/d/1BAAkNyVWzJSl8F-HooENCk56oIuAGVGX/view?usp=sharing" align="left" height="48" width="48" ></a>
-</p>
 
 
 - 🌱 I’m currently learning everything 🤣

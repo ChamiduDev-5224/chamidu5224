@@ -47,5 +47,5 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamidu5224&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamiduDev-5224&show_icons=true&theme=radical)
 

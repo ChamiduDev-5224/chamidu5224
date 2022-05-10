@@ -49,7 +49,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamiduDev-5224&show_icons=true&theme=radical)
 
-### profile view 
+### profile views 
 <br />
 
 ![](https://komarev.com/ghpvc/?username=your-github-ChamiduDev-5224&color=green)

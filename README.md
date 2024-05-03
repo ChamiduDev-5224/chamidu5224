@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to traveling :rugby_football: :bicyclist: :headphones:
-- you can see my portfolio: http://chamidur.online/
+- you can see my portfolio: https://chamidur.online/
 
 ### Connect with me:
 
